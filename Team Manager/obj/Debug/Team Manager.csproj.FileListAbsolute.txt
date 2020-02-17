@@ -1,0 +1,41 @@
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\bin\Debug\Team Manager.exe.config
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\bin\Debug\Team Manager.exe
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\bin\Debug\Team Manager.pdb
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team Manager.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team_Manager.TeamManager.resources
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team_Manager.Properties.Resources.resources
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.CopyComplete
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team Manager.exe
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\obj\Debug\Team Manager.pdb
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NXsi_qew2\source\repos\Team Manager\Team Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\bin\Debug\Team Manager.exe.config
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\bin\Debug\Team Manager.exe
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\bin\Debug\Team Manager.pdb
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.TeamManager.resources
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.exe
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.pdb
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.TeamFormation.resources
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\bin\Debug\Team Manager.exe.config
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\bin\Debug\Team Manager.exe
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\bin\Debug\Team Manager.pdb
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.TeamManager.resources
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.TeamFormation.resources
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.exe
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team Manager.pdb
+C:\Users\lenovo 330\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.Stadion.resources
+C:\Users\NXsi_qew2\Desktop\Team Manager\Team Manager\obj\Debug\Team_Manager.Stadion.resources
